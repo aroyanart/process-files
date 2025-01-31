@@ -1,0 +1,4 @@
+# Ignore output files
+output1.txt
+output2.txt
+.idea
